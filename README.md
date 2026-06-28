@@ -6,7 +6,7 @@ I am a results-driven **Full-Stack Developer** and Computer Science student with
 
 ### 🚀 Professional Profile
 - 💼 **Current Role:** Full-Stack Developer at the **Capital Market Authority (רשות שוק ההון)**.
-- 🎓 **Education:** Software Engineering Degree (MAHAT), 2024 - 2027.
+- 🎓 **Education:** Software Engineering Diploma (MAHAT), 2024 - 2027.
 - 🧠 **Focus:** Bridging complex business requirements with high-quality technical execution.
 - ⚡ **Passion:** Clean code, robust architecture, and solving complex algorithmic challenges.
 
