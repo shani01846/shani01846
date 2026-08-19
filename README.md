@@ -1,211 +1,168 @@
-# Shoshana Kirzon
+# Hi, I'm Shani
 
-**Full-Stack Developer | AI Engineer | Software Engineering Student**
+### Full Stack & AI Engineer
 
-I am a results-driven Full-Stack Developer and Software Engineering student with professional experience developing and maintaining large-scale financial systems.
+I'm a **Full Stack Developer and AI Engineer** focused on building enterprise applications and AI-powered systems.
 
-My expertise combines strong software engineering fundamentals with extensive hands-on experience in **AI Engineering**, including **LLM-based applications, RAG architectures, AI Agents, MCP, embeddings, vector search, and AI-assisted software development**.
+I combine strong software engineering foundations with hands-on experience in **Generative AI, LLM applications, RAG, AI Agents, semantic search, tool calling, and modern AI architectures**.
 
-I focus on transforming complex business requirements into reliable, maintainable, and scalable software solutions.
-
----
-
-## Professional Experience
-
-### Full-Stack Developer — Capital Market Authority
-
-Currently working as a Full-Stack Developer at the **Capital Market Authority (רשות שוק ההון)**, contributing to large-scale financial systems and business-critical applications.
-
-**Responsibilities and technologies include:**
-
-* Development of enterprise-scale applications.
-* Angular frontend development.
-* Complex business logic and data processing.
-* Oracle SQL and relational database development.
-* System analysis and understanding of complex business requirements.
-* Agile development methodologies.
-* Azure DevOps for source control, CI/CD, task management, and development workflows.
-* Working with existing large-scale systems and integrating new functionality into complex architectures.
+My goal is to build practical systems where **software engineering and AI work together to solve real-world problems**.
 
 ---
 
 ## AI Engineering
 
-A significant part of my technical focus is **AI Engineering and the development of LLM-powered applications**.
+My current focus is building practical AI systems using:
 
-I have extensive hands-on experience with:
+* **LLMs & Generative AI**
+* **RAG (Retrieval-Augmented Generation)**
+* **AI Agents & Agentic Workflows**
+* **LangChain & LangGraph**
+* **LlamaIndex**
+* **Model Context Protocol (MCP)**
+* **Function Calling & Tool Calling**
+* **Embeddings & Semantic Search**
+* **Vector Search & Vector Stores**
+* **Human-in-the-Loop**
+* **AI-powered Automation**
+* **LLM Application Architecture**
 
-* **Large Language Models (LLMs)**
-* **Retrieval-Augmented Generation (RAG)**
-* **AI Agents**
-* **MCP (Model Context Protocol)**
-* Prompt Engineering
-* Embeddings
-* Vector Search
-* Semantic Search
-* Vector Databases
-* Document Processing and Knowledge Retrieval
-* Context Management
-* LLM Application Architecture
-* AI-assisted Software Development
-* Tool Calling and Agentic Workflows
-* AI Evaluation and Response Quality
-* Integrating AI capabilities into existing software systems
+### AI Technologies
 
-My AI work focuses not only on using AI models, but on understanding and implementing the surrounding engineering architecture required to build reliable AI-powered systems.
+`Python` · `FastAPI` · `LangChain` · `LangGraph` · `LlamaIndex` · `Gemini` · `Cohere` · `MCP` · `Firecrawl` · `Playwright`
 
 ---
 
-## Selected AI Projects
+## Full Stack Engineering
 
-My GitHub repository contains projects developed both as part of my professional learning and independently, with a strong focus on AI Engineering and modern software architecture.
-
-### AI Engineer — Projects Repository
-
-A collection of AI Engineering projects covering LLMs, RAG, Agents, MCP, and related technologies.
-
-**Repository:**
-
-[AI-Engineer](https://github.com/shani01846/AI-Engineer)
-
-The repository includes projects exploring:
-
-* LLM applications
-* RAG pipelines
-* Retrieval and semantic search
-* AI Agents
-* MCP
-* Prompt Engineering
-* AI tools and integrations
-* AI-powered automation
-* Practical AI Engineering patterns
-
----
-
-## Technology Stack
-
-### Programming Languages
-
-* Java
-* C#
-* TypeScript
-* JavaScript
-* SQL
-* Node.js
+I have professional experience developing and maintaining **enterprise-scale applications**, working across frontend, backend, databases, APIs, and business logic.
 
 ### Frontend
 
-* Angular
-* React
-* Ionic
-* TypeScript
-* HTML
-* CSS
+`Angular` · `TypeScript` · `JavaScript` · `React` · `Next.js` · `HTML` · `CSS`
 
 ### Backend
 
-* .NET / ASP.NET Core
-* Node.js
-* REST APIs
-* Microservices
-* Entity Framework Core
-
-### AI & Machine Learning
-
-* LLMs
-* RAG
-* AI Agents
-* MCP
-* Embeddings
-* Vector Search
-* Semantic Search
-* Prompt Engineering
-* Tool Calling
-* AI Application Architecture
+`C#` · `.NET` · `ASP.NET Core` · `Python` · `FastAPI` · `REST APIs` · `Microservices`
 
 ### Databases
 
-* Oracle
-* SQL Server
-* MongoDB
-* Relational Database Design
+`Oracle` · `SQL Server` · `PostgreSQL` · `MongoDB` · `SQL`
+
+### DevOps & Cloud
+
+`Git` · `GitHub` · `Azure DevOps` · `Docker` · `AWS` · `CI/CD`
+
+---
+
+# Featured Projects
+
+## AI Engineering — NotebookLM-Style Research Assistant
+
+A full AI-powered research application combining **LLMs, RAG, AI Agents, tools, and external data sources**.
+
+[**Explore the AI Engineer Repository →**](https://github.com/shani01846/AI-Engineer)
+
+### Key Technologies
+
+`Python` · `FastAPI` · `LangChain` · `Gemini` · `Cohere` · `RAG` · `Vector Search` · `Firecrawl`
+
+### Key Capabilities
+
+* **LLM-powered Research Assistant**
+* **RAG & Semantic Search**
+* **AI Agent & Agentic Workflows**
+* **Tool Calling**
+* **Web Search & Data Extraction**
+* **Human-in-the-Loop**
+* **Source Management**
+* **Grounded Responses & Citations**
+* **AI-generated Artifacts**
+* **Embeddings & Vector Retrieval**
+
+The project demonstrates how an LLM can be connected to **knowledge sources, retrieval systems, external tools, and application logic** to create a complete AI-powered application.
+
+---
+
+## Full Stack — Enterprise Application
+
+A full-stack enterprise application demonstrating end-to-end software development across **frontend, backend, APIs, business logic, and data access**.
+
+[**Explore the Full Stack Enterprise App →**](https://github.com/shani01846/Fullstack-Enterprise-App)
+
+### Key Technologies
+
+`Angular` · `TypeScript` · `C#` · `.NET` · `REST APIs` · `SQL`
+
+### Key Areas
+
+* **Angular frontend**
+* **C# / .NET backend**
+* **REST API integration**
+* **Database-driven application**
+* **Business logic & services**
+* **Enterprise application architecture**
+* **Frontend–Backend integration**
+* **CRUD & data management**
+
+The project demonstrates my ability to develop complete applications across the stack — from **user interfaces and APIs to backend services and data access**.
+
+---
+
+## What I'm Building
+
+I'm particularly interested in building systems where:
+
+**LLMs + Agents + Tools + RAG + APIs + Real Data**
+
+come together to solve real-world problems.
+
+I'm continuously exploring new approaches in:
+
+* **AI Engineering**
+* **Agentic AI**
+* **Generative AI**
+* **Advanced RAG**
+* **LLM Application Architecture**
+* **AI + Full Stack Development**
+
+---
+
+## Engineering Approach
+
+I believe the most useful AI applications are not just models — they are **complete software systems**.
+
+My focus is on connecting:
+
+**Models → Retrieval → Tools → APIs → Data → Business Logic**
+
+to build AI applications that are practical, maintainable, and scalable.
+
+---
+
+## Other Technologies
+
+### Programming Languages
+
+`Python` · `C#` · `Java` · `TypeScript` · `JavaScript` · `SQL`
+
+### Additional Technologies
+
+`React` · `Next.js` · `Node.js` · `Ionic` · `Entity Framework Core` · `Microservices`
 
 ### Cloud & DevOps
 
-* Docker
-* AWS
-* Azure DevOps
-* CI/CD
-* Git
-* GitHub
+`Azure DevOps` · `AWS` · `Docker` · `Git` · `GitHub` · `CI/CD`
 
 ---
 
-## Core Engineering Skills
+## Connect
 
-* Full-Stack Development
-* System Analysis
-* Software Architecture
-* RESTful API Design
-* Relational Database Modeling
-* Enterprise Application Development
-* Microservices
-* Authentication & Authorization
-* Clean Code
-* Debugging and Troubleshooting
-* Performance Optimization
-* CI/CD
-* Agile Development
-* AI Engineering
+* GitHub: [@shani01846](https://github.com/shani01846)
+* LinkedIn: [Shani Kirzon](https://www.linkedin.com/)
 
 ---
 
-## Education
+### Full Stack Engineering × AI Engineering
 
-### Software Engineering — MAHAT
-
-**2024 – 2027**
-
-Software Engineering studies with a focus on software development, algorithms, system design, databases, and modern development technologies.
-
----
-
-## GitHub Activity
-
-[![Shoshana's GitHub stats](https://github-readme-stats.vercel.app/api?username=shani01846\&show_icons=true\&theme=default\&hide_border=true)](https://github.com/shani01846)
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shani01846\&layout=compact\&theme=default\&hide_border=true)](https://github.com/shani01846)
-
----
-
-## Languages
-
-* **Hebrew:** Native
-* **English:** Very High Proficiency
-
----
-
-## Professional Strengths
-
-* Strong analytical and problem-solving abilities.
-* Fast and independent learner.
-* Ability to understand complex systems and business domains.
-* Strong interest in AI Engineering and emerging technologies.
-* Experience working with large-scale enterprise systems.
-* Strong attention to code quality and maintainability.
-* Ability to bridge business requirements and technical implementation.
-* Continuous exploration of modern AI development methodologies.
-
----
-
-## Contact
-
-**Email:** [shani01846@gmail.com](mailto:shani01846@gmail.com)
-
-**LinkedIn:** [linkedin.com/in/shoshana-kirzon](https://www.linkedin.com/in/shoshana-kirzon)
-
-**GitHub:** [github.com/shani01846](https://github.com/shani01846)
-
----
-
-> Turning complex requirements into reliable software and intelligent systems.
+**Building reliable software and intelligent systems.**
